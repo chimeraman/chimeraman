@@ -124,7 +124,7 @@ if('z1' !== originLanguage){
                 } else {
                     $done({body});
                 }
-            }
+            } 
         }
     });
 } else {
